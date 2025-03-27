@@ -2,7 +2,6 @@
 
 **Forest** is an immersive, nature-inspired landing page built entirely with **Tailwind CSS** and enhanced with **animations, dynamic weather via Open-Meteo API**, and responsive design techniques. It simulates a real-world forest retreat website, ideal for eco-tourism, glamping, or digital detox experiences.
 
-![Forest Cover](./img/forest.svg)
 
 ---
 
